@@ -1,6 +1,7 @@
 # Mega store app
 ## Introduction
 
+
 <hr> 
 
 ### Here is a list of the packages installed:
@@ -27,6 +28,6 @@ php artisan passport:install
 - Generate a new application key.
 php artisan key:generate
 - Start the local server.
-php artisan serve 
+` php artisan serve `
 
 ## Now You Can Use This App
