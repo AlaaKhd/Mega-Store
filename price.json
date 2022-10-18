@@ -1,0 +1,33 @@
+
+{
+    "name": "vvvv",
+    "img_url": "vvvv",
+    "exp_date": "2021-12-23",
+    "category_id": 1,
+    "quantity": 4,
+    "description": "vvvv",
+    "price": 1000,
+    "phone_number": "1000",
+    "list_discounts":
+    [
+
+
+
+            {
+                "discount_percentage" : 25 ,
+                "date" : "2021-12-23"
+            },
+            {
+                "discount_percentage" : 15 ,
+                "date" : "2021-12-24"
+            }
+
+
+    ]
+
+
+
+}
+
+
+
