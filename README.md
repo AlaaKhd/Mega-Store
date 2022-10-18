@@ -1,4 +1,4 @@
-# E-commerce app
+# Mega Store app
 ## Introduction
 <hr> 
 
@@ -37,7 +37,3 @@ php artisan key:generate
 ```
 php artisan serve 
 ```
-
-<hr>
-
-## Now You Can Use This App
